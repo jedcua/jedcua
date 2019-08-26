@@ -8,6 +8,9 @@ theme:
   palette:
     primary: 'teal'
 
+extra:
+  disqus: 'jedcua'
+
 extra_css:
   - extra.css
 
