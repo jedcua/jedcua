@@ -1,4 +1,5 @@
 site_name: Jed Cua
+site_url: 'https://jedcua.dev'
 
 theme: 
   name: material
