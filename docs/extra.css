@@ -124,8 +124,8 @@ div.superfences-content pre {
 /* Logo */
 
 h1>img {
-    width: 100%;
-    filter: drop-shadow( 3px 3px 2px rgba(0, 0, 0, .7));
+    max-width: 200px;
+    filter: drop-shadow( 2px 2px 2px rgba(0, 0, 0, .7));
 }
 
 .md-logo {
