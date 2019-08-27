@@ -6,7 +6,7 @@
 
 PS: sometimes `git reset --hard` ;)
 
-## Projects
+## Featured Projects
 [RPi Stacker](projects/rpi_stacker.md) : Remaking an arcade game from my childhood.. with a Raspberry Pi!
 <div class="imgpreview">
 ![RPI-Stacker](../img/rpi-stacker/preview.jpg)
