@@ -19,8 +19,6 @@ nav:
   - Home: 'index.md'
   - Projects: 
     - 'RPi Stacker' : 'projects/rpi_stacker.md'
-  - Articles: 
-    - 'VirtualEnv' : 'articles/virtualenv.md'
 
 markdown_extensions:
   - codehilite:
