@@ -3,6 +3,7 @@ site_url: 'https://jedcua.dev'
 
 theme: 
   name: material
+  favicon: 'jedcua_icon.svg'
   logo: 'img/jedcua_small.svg'
   feature:
     tabs: false
