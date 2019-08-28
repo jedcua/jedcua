@@ -45,7 +45,7 @@ Just go to the project directory
 cd rpi-stacker
 ```
 
-If you wish, you may use `virtualenv` before this next step. But for starters let's install the dependencies needed
+If you wish, you may use [`virtualenv`](/articles/virtualenv) before this next step. But for starters let's install the dependencies needed
 ```
 pip install -r requirements.txt
 ```
