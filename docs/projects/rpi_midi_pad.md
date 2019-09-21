@@ -8,7 +8,6 @@ For this project, we are going to animate an 8x8 LED Dot Matrix with MIDI!
 
 
 ## Architecture
+![Architecture](../img/rpi-midi-pad/architecture.png)
 
-```
-Diagram here
-```
+This setup requires a Raspberry Pi, and a Desktop/Laptop. The Raspberry Pi will run the Python script `server.py`, which communicates with the Pi's GPIO, which interfaces with the MAX7219 for controlling the 8x8 Dot Matrix
