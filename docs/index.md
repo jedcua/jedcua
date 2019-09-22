@@ -12,7 +12,7 @@ PS: sometimes `git reset --hard` ;)
 ![RPI-Stacker](../img/rpi-stacker/preview.jpg)
 </div>
 
-[RPi Midi Pad](projects/rpi_midi_pad.md) : LEDs that moves with music!
+[RPi Midi Pad](projects/rpi_midi_pad.md) : LEDs that move with music!
 <div class="imgpreview">
 ![RPI-Midi-Pad](../img/rpi-midi-pad/preview.png)
 </div>
