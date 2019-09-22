@@ -7,16 +7,16 @@ What is [Stacker](https://en.wikipedia.org/wiki/Stacker_(arcade_game)) ? It's a 
 I really liked this game when I was young. And so my dear reader, I present my recipe for remaking Stacker:
 
 ## Hardware
-![Raspberry Pi](../img/rpi-stacker/raspberry-pi.jpg)
+![Raspberry Pi](../img/common/raspberry-pi.jpg)
 
 **Raspberry Pi** : I've used my trusty 3B model for this project. However any variant is fine for as long as it supports [SPI](https://www.raspberrypi.org/documentation/hardware/raspberrypi/spi/README.md). To enable SPI on your Pi, follow [these](https://learn.sparkfun.com/tutorials/raspberry-pi-spi-and-i2c-tutorial/all#spi-on-pi) instructions
 
-![Dot Matrix](../img/rpi-stacker/dot-matrix.jpg)
+![Dot Matrix](../img/common/dot-matrix.jpg)
 
-**8x8 Dot Matrix with MAX7219** : For this one, you can purchase them separately and wire them together. But the easiest would be to purchase an already soldered MAX7219. [Here](https://www.amazon.com/s?k=max7219) is a good start.
+**8x8 Dot Matrix with MAX7219** : For this one, you can purchase them separately and wire them together. But the easiest would be to purchase one that is already connected to the MAX7219. [Here](https://www.amazon.com/s?k=max7219) is a good start.
 
-## Pin Configuration
-Now, let's wire the pins of our Raspeberry Pi with MAX7219
+### Pin Configuration
+Now, let's wire the pins of our Raspberry Pi with MAX7219
 
 |MAX7219 |RPi|
 |--------|---|
