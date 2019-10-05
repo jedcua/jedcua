@@ -8,11 +8,7 @@ PS: sometimes `git reset --hard` ;)
 
 ## Featured Projects
 [RPi Stacker](projects/rpi_stacker.md) : Let's remake an arcade game with Raspberry Pi!
-<div class="imgpreview">
 ![RPI-Stacker](../img/rpi-stacker/preview.jpg)
-</div>
 
 [RPi Midi Pad](projects/rpi_midi_pad.md) : LEDs that move with music!
-<div class="imgpreview">
 ![RPI-Midi-Pad](../img/rpi-midi-pad/preview.png)
-</div>
